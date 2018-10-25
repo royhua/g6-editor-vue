@@ -1,4 +1,4 @@
-# e-vsm
+# g6-editor-vue
 
 > A Vue.js project
 
